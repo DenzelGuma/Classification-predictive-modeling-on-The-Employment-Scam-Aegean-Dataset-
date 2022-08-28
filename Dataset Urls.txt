@@ -1,0 +1,2 @@
+Original source EMSCAD dataset - http://emscad.samos.aegean.gr 
+Secondary source Kaggle EMSCAD dataset - https://www.kaggle.com/mranaljadhav/real-fake-job-post/notebook 
